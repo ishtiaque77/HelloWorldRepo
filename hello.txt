@@ -11,4 +11,4 @@ hello world
 
 Added new line from newbranch
 
-Modified test
+Modified testfromclone
