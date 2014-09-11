@@ -11,4 +11,8 @@ hello world
 
 Added new line from newbranch
 
+<<<<<<< HEAD
 Modified testfromoriginal
+=======
+Modified testfromclone
+>>>>>>> origin/master
